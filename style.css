@@ -400,7 +400,7 @@ img {
 }
 
 .mountain-scene {
-    position: relative;
+    position: absolute;
     overflow: hidden;
     width: 100%;
     height: 73.8%;
